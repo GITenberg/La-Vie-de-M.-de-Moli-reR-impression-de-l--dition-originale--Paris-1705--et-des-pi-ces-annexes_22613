@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25445
     wikipedia: http://fr.wikipedia.org/wiki/Grimarest
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22613#La-Vie-de-M.-de-Moli-reR-impression-de-l--dition-originale--Paris-1705--et-des-pi-ces-annexes
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2007-09-16'
 gutenberg_type: Text
