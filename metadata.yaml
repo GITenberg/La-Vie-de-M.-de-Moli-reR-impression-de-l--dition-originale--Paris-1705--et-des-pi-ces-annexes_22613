@@ -1,0 +1,41 @@
+_repo: La-Vie-de-M.-de-Moli-reR-impression-de-l--dition-originale--Paris-1705--et-des-pi-ces-annexes_22613
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lalauze, Adolphe
+    alias: Lalauze, A. (Adolphe)
+    birthdate: 1838
+    deathdate: 1906
+    gutenberg_agent_id: '25444'
+    url: http://www.gutenberg.org/2009/agents/25444
+    wikipedia: http://fr.wikipedia.org/wiki/Adolphe_Lalauze
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grimarest, Jean-Léonor Le Gallois de
+    alias: Grimarest, Jean-Leonor Le Gallois de
+    birthdate: 1659
+    deathdate: 1713
+    gutenberg_agent_id: '25445'
+    url: http://www.gutenberg.org/2009/agents/25445
+    wikipedia: http://fr.wikipedia.org/wiki/Grimarest
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2007-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22613'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Dramatists, French -- 17th century -- Biography -- Early works to 1800'
+- !lcsh 'Molière, 1622-1673'
+title: 'La Vie de M. de Molière
+
+  Réimpression de l''édition originale (Paris, 1705) et des pièces annexes'
+url: http://www.gutenberg.org/ebooks/22613
